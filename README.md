@@ -1,8 +1,8 @@
 # Spotlight @crisxai5: AI & Crypto Expert on X
 
 [![bounty](https://make.fun/badge/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad.svg)](https://make.fun/bounty/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad)
-[![rank](https://make.fun/badge/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/rank/chiidaichii1-boop/tina-spotlight-crisxai5.svg)](https://make.fun/bounty/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad)
-[![reward](https://make.fun/badge/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/reward/chiidaichii1-boop/tina-spotlight-crisxai5.svg)](https://make.fun/bounty/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad)
+[![rank](https://make.fun/badge/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/chiidaichii1-boop/tina-spotlight-crisxai5/rank.svg)](https://make.fun/bounty/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad)
+[![reward](https://make.fun/badge/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/chiidaichii1-boop/tina-spotlight-crisxai5/reward.svg)](https://make.fun/bounty/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad)
 
 Bounty: https://make.fun/bounty/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad
 
@@ -23,7 +23,7 @@ FxTwitter after the deadline (closes 27 Nov 2026 18:35 WIB) and the Top 10
 share $2 USDC. `POST.json` at this repository's root names the post:
 
 ```json
-{"url": "https://x.com/<handle>/status/<id>"}
+{"url": "https://x.com/ChiiDaichii/status/2125805187206090946"}
 ```
 
 ## The program
